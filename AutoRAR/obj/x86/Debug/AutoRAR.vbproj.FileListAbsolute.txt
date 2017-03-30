@@ -1,0 +1,43 @@
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\bin\Debug\AutoRAR.exe
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\bin\Debug\AutoRAR.pdb
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\bin\Debug\AutoRAR.xml
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\AutoRAR.frmMain.resources
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\AutoRAR.Resources.resources
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\AutoRAR.exe
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\AutoRAR.xml
+C:\Users\test\AppData\Local\Temporary Projects\AutoRAR\obj\x86\Debug\AutoRAR.pdb
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.exe
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.xml
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.pdb
+E:\Edward\AutoRAR\AutoRAR\bin\Debug\AutoRAR.exe
+E:\Edward\AutoRAR\AutoRAR\bin\Debug\AutoRAR.pdb
+E:\Edward\AutoRAR\AutoRAR\bin\Debug\AutoRAR.xml
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.frmMain.resources
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.Resources.resources
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Edward\AutoRAR\AutoRAR\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.frmMain.resources
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.Resources.resources
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Edward's Projects\AutoRAR\AutoRAR\bin\Debug\Auto7z.exe
+F:\Edward's Projects\AutoRAR\AutoRAR\bin\Debug\Auto7z.pdb
+F:\Edward's Projects\AutoRAR\AutoRAR\bin\Debug\Auto7z.xml
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\Auto7z.exe
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\Auto7z.xml
+F:\Edward's Projects\AutoRAR\AutoRAR\obj\x86\Debug\Auto7z.pdb
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.frmMain.resources
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.Resources.resources
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\bin\Debug\Auto7z 1.7.exe.config
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\bin\Debug\Auto7z 1.7.exe
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\bin\Debug\Auto7z 1.7.pdb
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\bin\Debug\Auto7z 1.7.xml
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\obj\x86\Debug\Auto7z 1.7.exe
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\obj\x86\Debug\Auto7z 1.7.xml
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\obj\x86\Debug\Auto7z 1.7.pdb
+E:\Edward\AutoRAR 1.1\AutoRAR\AutoRAR\obj\x86\Debug\AutoRAR.vbproj.GenerateResource.Cache
